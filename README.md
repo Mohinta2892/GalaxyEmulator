@@ -1,9 +1,9 @@
 We created a Galaxy Power Spectrum Emulator given a set of 6 input variables that define an 80D spectrum.
 
 Total dataset size:260K 
-Input shape: `260K x 6`
-Output shape: `260K x 80`
-Datatype: Real (FP)
+- Input shape: `260K x 6`
+- Output shape: `260K x 80`
+- Datatype: Real (FP)
 
 Trained two models:
 - Random Forest Regressor (sklearn)
